@@ -6,7 +6,7 @@
 
 ## 🚧 Status do Projeto
 
-📌 **Em desenvolvimento** - O jogo está atualmente em fase de criação e testes. Algumas funcionalidades podem estar incompletas ou sujeitas a alterações.
+📌 **Em desenvolvimento** - O jogo está atualmente em fase de criação
 
 ## 🎮 Sobre o Jogo
 
